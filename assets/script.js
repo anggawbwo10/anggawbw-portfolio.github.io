@@ -21,7 +21,7 @@ let datas = [
     button_text: "See Details",
   },
   {
-    asset: "assets/img/NFT-marketplace.jpg",
+    asset: "assets/img/nft-marketplace.jpg",
     title: "NFT Marketplace Landing Page",
     description:
       " Apps that will help user to manage and track their income and outcome without using the paper anymore",
